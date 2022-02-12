@@ -1,0 +1,48 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14218#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 4. Time limit exceeded
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+    55
+    17
+    16
+    15
+    14
+    13
+    Correct output:
+    18
+    153
+    8
+
+    Your code output:
+
+  time: Thu, 03 Feb 2022 18:10:58 UTC
+record: -1
